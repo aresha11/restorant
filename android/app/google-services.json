@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245216789672",
+    "project_id": "restorant-64aa6",
+    "storage_bucket": "restorant-64aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245216789672:android:dc8dee69318b800e692e9d",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245216789672-8heacrj05mcroa4h85a9put63i48hhsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsXcDr5uPCOH6QTTqZo5uJghGqaIm7Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245216789672-8heacrj05mcroa4h85a9put63i48hhsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
